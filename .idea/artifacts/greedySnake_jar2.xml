@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="greedySnake:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/greedySnake_jar2</output-path>
+    <root id="archive" name="greedySnake.jar">
+      <element id="module-output" name="greedySnake" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
